@@ -35,13 +35,13 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
  
 """
     ABOUT_TEXT = """
-**Mʏ ɴᴀᴍᴇ** : [Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴠ4](https://t.me/UploadLinkToFileBot)
+**Mʏ ɴᴀᴍᴇ** : [Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴠ4](https://t.me/Uploader_voll4_bot)
 
-**Cʜᴀɴɴᴇʟ** : [NT Bᴏᴛs](https://t.me/NT_BOT_CHANNEL)
+**Cʜᴀɴɴᴇʟ** : [KD Bᴏᴛs](https://t.me/KDRAMA_TALKIES)
 
-**Sᴏᴜʀᴄᴇ** : [Cʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/LISA-KOREA/UPLOADER-BOT-V4)
+**Sᴏᴜʀᴄᴇ** : [Cʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/superpasses/UPLOADER-BOT-V4)
 
-**Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : [NT Bᴏᴛs Sᴜᴘᴘᴏʀᴛ](https://t.me/NT_BOTS_SUPPORT)
+**Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : [KD Bᴏᴛs Sᴜᴘᴘᴏʀᴛ](https://t.me/KDRAMATALKIES)
 
 **Dᴀᴛᴀʙᴀsᴇ** : [MᴏɴɢᴏDB](https://cloud.mongodb.com)
 
